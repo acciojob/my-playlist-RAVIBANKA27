@@ -3,6 +3,14 @@ body{
 	background:#cccccc;
 }
 
+.player_one{
+	background:rgb(255, 255, 255);
+}
+
+h1, h2{
+	text-align:center;
+}
+
 ul{
   list-style-type: none;
   padding: 0;
